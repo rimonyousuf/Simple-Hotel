@@ -1,0 +1,46 @@
+.header-container {
+    background-image: url("../../assets/background.jpg");
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.btn-sign-out{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(253, 55, 55);
+    color: white;
+    width: 90px;
+    height: 30px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.text-center{
+    text-align: center;
+    padding: 40px 0;
+    color: rgb(216, 207, 207);
+}
+
+.text-center h2{
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+.text-center h3{
+    margin-top: 0;
+    font-size: 40px;
+}

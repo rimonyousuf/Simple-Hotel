@@ -1,0 +1,50 @@
+.container{
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+}
+
+.title-name{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+
+.title-name h2{
+    width: 30px;
+    text-align: center;
+    background-color: rgb(253, 73, 73);
+    color: white;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.container img{
+    width: 300px;
+    height: 250px;
+}
+
+.container p{
+    color: gray;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info p{
+    color: rgb(74, 72, 72);
+}
+
+.btn-book{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(9, 9, 165);
+    color: white;
+    width: 60px;
+    height: 35px;
+    cursor: pointer;
+}

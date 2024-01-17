@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "S",
+        "name": "Standard Single Room",
+        "img" : "../src/assets/data/1.jpg",
+        "description": "Standards single rooms are designed in open-concept living area and have many facilities",
+        "bed": "1",
+        "person": "1",
+        "price": "119"
+    },
+    {
+        "id": "2",
+        "title": "D",
+        "name": "Couple Power Room",
+        "img" : "../src/assets/data/2.jpg",
+        "description": "Superior double rooms are perfectly equipped for living traveling couples or friends",
+        "bed": "1",
+        "person": "2",
+        "price": "149"
+    },
+    {
+        "id": "3",
+        "title": "F",
+        "name": "Family Capacity Room",
+        "img" : "../src/assets/data/3.jpg",
+        "description": "Have lots of in-room facilities and are changed in open-concept living area",
+        "bed": "2",
+        "person": "4",
+        "price": "199"
+    }
+]
